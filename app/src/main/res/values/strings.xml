@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Popular_Libs</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="task_3">Task 3</string>
+    <string name="navigation">Navigation</string>
+    <string name="button">Button</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="unsubscribe">Отписаться</string>
+    <string name="spam">Спам</string>
 </resources>

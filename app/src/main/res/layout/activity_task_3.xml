@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"
         android:gravity="center"
-        android:text="@string/navigation"
+        android:text="@string/task_3"
         android:textAllCaps="true"
         android:textSize="@dimen/header_text_size" />
 
@@ -21,19 +21,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"
-        android:text="@string/task_1" />
+        android:text="@string/subscribe" />
 
     <Button
         android:id="@+id/b_task_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"
-        android:text="@string/task_2" />
-
-    <Button
-        android:id="@+id/b_task_3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/base_margin"
-        android:text="@string/task_3" />
+        android:text="@string/unsubscribe" />
 </LinearLayout>
