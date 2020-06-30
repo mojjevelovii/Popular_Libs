@@ -1,4 +1,4 @@
-package ru.shumilova.popular_libs;
+package ru.shumilova.popular_libs.task1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import ru.shumilova.popular_libs.R;
 
 public class Task1Activity extends AppCompatActivity {
     private Button button;

@@ -1,4 +1,4 @@
-package ru.shumilova.popular_libs;
+package ru.shumilova.popular_libs.task1;
 
 import android.os.AsyncTask;
 import android.util.Log;

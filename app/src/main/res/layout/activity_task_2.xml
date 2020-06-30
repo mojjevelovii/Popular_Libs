@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Task1Activity">
+    tools:context=".task1.Task1Activity">
 
     <TextView
         android:id="@+id/tv_header"
@@ -17,21 +17,21 @@
         android:textSize="@dimen/header_text_size" />
 
     <Button
-        android:id="@+id/b_task_1"
+        android:id="@+id/b_subscribe"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"
         android:text="@string/subscribe" />
 
     <Button
-        android:id="@+id/b_task_2"
+        android:id="@+id/b_unsubscribe"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"
         android:text="@string/unsubscribe" />
 
     <Button
-        android:id="@+id/b_task_3"
+        android:id="@+id/b_spam"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/base_margin"

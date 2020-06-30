@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Task1Activity">
+    tools:context=".task1.Task1Activity">
 
     <TextView
         android:id="@+id/tv_header"

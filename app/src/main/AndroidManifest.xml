@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Task3Activity"></activity>
-        <activity android:name=".Task2Activity" />
-        <activity android:name=".Task1Activity" />
+        <activity android:name=".task2.Task2Activity" />
+        <activity android:name=".task1.Task1Activity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

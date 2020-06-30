@@ -7,6 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import ru.shumilova.popular_libs.task1.Task1Activity;
+import ru.shumilova.popular_libs.task2.Task2Activity;
+
 public class MainActivity extends AppCompatActivity {
     private Button task1;
     private Button task2;
