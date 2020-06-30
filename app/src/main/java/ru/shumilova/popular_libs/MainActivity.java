@@ -9,6 +9,7 @@ import android.widget.Button;
 
 import ru.shumilova.popular_libs.task1.Task1Activity;
 import ru.shumilova.popular_libs.task2.Task2Activity;
+import ru.shumilova.popular_libs.task3.Task3Activity;
 
 public class MainActivity extends AppCompatActivity {
     private Button task1;
