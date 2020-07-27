@@ -6,6 +6,14 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/tv_task_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/base_margin"
+        android:text="@string/task_one" />
+
     <EditText
         android:id="@+id/et_enter_text"
         android:layout_width="match_parent"
@@ -15,10 +23,30 @@
     <TextView
         android:id="@+id/tv_show_text"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="240dp"
         android:layout_margin="@dimen/base_margin"
-        android:background="@color/gray"
-        android:text="Hello World!" />
+        android:background="@color/gray" />
 
+    <TextView
+        android:id="@+id/tv_task_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/base_margin"
+        android:text="@string/task_two" />
+
+    <TextView
+        android:id="@+id/tv_observer_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/base_margin"
+        android:background="@color/gray" />
+
+    <TextView
+        android:id="@+id/tv_observer_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/base_margin"
+        android:background="@color/gray" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>

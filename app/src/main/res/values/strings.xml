@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Popular_Libs</string>
+    <string name="task_one">TASK 1</string>
+    <string name="task_two">TASK 2</string>
 </resources>
