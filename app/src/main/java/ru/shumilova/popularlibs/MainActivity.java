@@ -1,4 +1,4 @@
-package ru.shumilova.popular_libs;
+package ru.shumilova.popularlibs;
 
 import androidx.appcompat.app.AppCompatActivity;
 
